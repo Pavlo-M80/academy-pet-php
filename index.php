@@ -14,8 +14,11 @@
 <body>
     <?php include "./components/headerCpmponent.php"; ?>
 
+
     <main class="container">
+        <!-- ...? -->
         <form method="post">
+
             <?php
             $products = [
                 ['name' => 'Футболка', 'price' => 20],
